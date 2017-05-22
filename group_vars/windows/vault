@@ -1,0 +1,2 @@
+#ansible-vault create /home/<user>/ansible_test/group_vars/windows/vault.
+vault_admin_password: <admin user password>
